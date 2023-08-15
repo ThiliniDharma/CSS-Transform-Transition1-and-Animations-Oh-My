@@ -1,1 +1,8 @@
-
+ #bt:hover{
+    background-color:cornflowerblue;
+    color:white;
+}
+.b1{
+   background-color: ghostwhite;
+   transition-duration: 2s;  
+} 
